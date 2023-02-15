@@ -1,0 +1,18 @@
+Name:		Hrudayangam Mehta
+B-Number:	B00983390
+Email:		hmehta@binghamton.edu
+
+
+
+IMPR: 
+    RUN THE COMMAND : "$extras/do-tests.sh ./decls.sh" 
+            IN THE DIRECTORY: "projects/cs571/projects/prj1/prj1-sol" 
+            or it wont run, as decls is given the path of the file to run 
+
+terminal commands to execute:
+
+set up extra as:
+extras=$HOME/projects/cs571/projects/prj1/extras
+
+for running all the test cases in the code:
+ $extras/do-tests.sh ./decls.sh

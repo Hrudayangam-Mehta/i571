@@ -1,0 +1,13 @@
+Name: Hrudayangam Mehta
+B-Number: B00983390
+BU Email: hmehta@binghamton.edu
+
+the final submission is in the file titled as: core.clj
+
+running this in the terminal at the following folder:
+hmehta@remote02:~/projects/cs571/projects/prj2/prj2-sol$ lein test
+
+lein test prj2-sol.core-test
+
+Ran 8 tests containing 26 assertions.
+0 failures, 0 errors.

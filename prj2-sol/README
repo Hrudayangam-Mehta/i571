@@ -2,7 +2,8 @@ Name: Hrudayangam Mehta
 B-Number: B00983390
 BU Email: hmehta@binghamton.edu
 
-the final submission is in the file titled as: core.clj
+the final submission is in the file titled as: core.clj in the folder src
+
 
 running this in the terminal at the following folder:
 hmehta@remote02:~/projects/cs571/projects/prj2/prj2-sol$ lein test
